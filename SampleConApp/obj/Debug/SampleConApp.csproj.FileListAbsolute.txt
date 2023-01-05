@@ -1,0 +1,7 @@
+D:\Gagan\.NET\CompleteDotnetTraining\SampleConApp\bin\Debug\SampleConApp.exe.config
+D:\Gagan\.NET\CompleteDotnetTraining\SampleConApp\bin\Debug\SampleConApp.exe
+D:\Gagan\.NET\CompleteDotnetTraining\SampleConApp\bin\Debug\SampleConApp.pdb
+D:\Gagan\.NET\CompleteDotnetTraining\SampleConApp\obj\Debug\SampleConApp.csprojAssemblyReference.cache
+D:\Gagan\.NET\CompleteDotnetTraining\SampleConApp\obj\Debug\SampleConApp.csproj.CoreCompileInputs.cache
+D:\Gagan\.NET\CompleteDotnetTraining\SampleConApp\obj\Debug\SampleConApp.exe
+D:\Gagan\.NET\CompleteDotnetTraining\SampleConApp\obj\Debug\SampleConApp.pdb
